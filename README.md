@@ -1,4 +1,4 @@
-![Sales](https://github.com/priyababu76/BI360/assets/35987954/acc04dd4-90e6-4661-af85-5c552ba9c97e)![Finace](https://github.com/priyababu76/BI360/assets/35987954/4531b4c8-4803-4778-9bca-1a459efbcbfd)# Business Insights 360
+# Business Insights 360
 
 ## Project Overview
 
