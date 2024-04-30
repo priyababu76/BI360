@@ -1,12 +1,9 @@
-# Business Insights 360
+![Sales](https://github.com/priyababu76/BI360/assets/35987954/acc04dd4-90e6-4661-af85-5c552ba9c97e)![Finace](https://github.com/priyababu76/BI360/assets/35987954/4531b4c8-4803-4778-9bca-1a459efbcbfd)# Business Insights 360
 
 ## Project Overview
 
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
-I worked on this project by following the Codebasics PowerBi Course, Link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
-
-[Live Report Link](https://www.novypro.com/project/atliq-hardware-business-insights-360)
 
 ## Tech stacks
 
@@ -159,8 +156,9 @@ Fact table : It will have the data about the transactions
 - Poor data modeling affects the over all performance of the report.
 - Following Good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
 - In this project, we have followed Snowfall data modeling method.
+<img width="838" alt="Data_model" src="https://github.com/priyababu76/BI360/assets/35987954/3bebcad0-8bc3-4520-a7a5-5aaeeed03cad">
 
-<img src="https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Data_model.png" class="center">
+
 
 ### Dashboard designing
 
@@ -181,37 +179,42 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Overall Report
 
-![Overall Report.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Overall.gif)
+![Overall](https://github.com/priyababu76/BI360/assets/35987954/d4b2204b-00b8-4782-9421-ca96995fab6e)
+
 
 ## Info Page
 
-![Info.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Info.gif)
+![Info](https://github.com/priyababu76/BI360/assets/35987954/b5608023-2c0e-45a9-b2e3-668ad6bd5ea9)
+
 
 ## Finance View
+ 
 
-![Finace.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Finace.gif)
-## Sales View
+![Finace](https://github.com/priyababu76/BI360/assets/35987954/3aabfc04-b434-445a-8b13-d162df5154d1)
 
-![Sales.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.gif)
+
+## Sa!es View
+   
+   
+![Sales](https://github.com/priyababu76/BI360/assets/35987954/2606d81b-e620-451e-80ce-cd71ac903cf2)
 
 ## Marketing View
 
-![Marketing.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.gif)
+![Marketing](https://github.com/priyababu76/BI360/assets/35987954/33b460fd-7d05-4fa8-8c57-d7229044187d)
+
 
 ## Supply chain View
 
-![Supply chain.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
+![supply chain](https://github.com/priyababu76/BI360/assets/35987954/11d996b3-8122-41b9-9b6e-8fc4823a1bbc)
 
 ## Executive View
 
-![Executive.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Executive.gif)
+![Executive](https://github.com/priyababu76/BI360/assets/35987954/90bfb5cc-505d-4e31-93ed-dfd66e39ad94)
+
 
 ## Products
 
-![Products](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Products%20View.gif)
-
-you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
-
+![Products View](https://github.com/priyababu76/BI360/assets/35987954/b72ec126-08f1-4e16-96fb-21935f117f4c)
 
 ## Project Outcome
 
